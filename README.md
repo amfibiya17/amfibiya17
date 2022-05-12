@@ -7,6 +7,7 @@ Please check the links below.
 
 - [rock-paper-scissors-game](https://rock---paper---scissors.herokuapp.com/)
 - [birthday-app](https://birth-day-app.herokuapp.com/)
+- [website challenge](https://shecodesproject2020.s3.eu-west-2.amazonaws.com/new_site.html#repeat)
 
 ---
 How to reach me: [LinkedIn](https://www.linkedin.com/in/yaroslava-yates-629517221/)
