@@ -13,6 +13,7 @@ Please check the links below.
 
 | Project | Description |
 | ------------- | ------------- |
+| [todo list](https://todo--list--challenge.herokuapp.com/) | Simple To Do list with AJAX (`JS, CSS, HTML`) deployed to Heroku |
 | [caterpillar game](https://caterpillar-game.herokuapp.com/)  | Popular snake/caterpillar game from the 90's (`JS, CSS, HTML, PHP`) deployed to Heroku |
 | [chitter app](https://chitter---app.herokuapp.com/)   | Basic Twitter clone (`Ruby, CSS, HTML, Sinatra, PostgreSQL`) with data base deployed to Heroku  |
 | [rock-paper-scissors-game](https://rock---paper---scissors.herokuapp.com/)  | Popular rock-paper-scissors game for one player vs. computer (`Ruby, CSS, HTML, Sinatra`) deployed to Heroku |
