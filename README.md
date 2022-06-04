@@ -13,13 +13,13 @@ Please check the links below.
 
 | Project | Description |
 | ------------- | ------------- |
+| [news app](http://news-app-challenge.s3-website.eu-west-2.amazonaws.com/) | News app Frond End challenge with AJAX (`JS, CSS, HTML`) deployed to AWS S3 |
 | [todo list](https://todo--list--challenge.herokuapp.com/) | Simple To Do list with AJAX (`JS, CSS, HTML`) deployed to Heroku |
 | [caterpillar game](https://caterpillar-game.herokuapp.com/)  | Popular snake/caterpillar game from the 90's (`JS, CSS, HTML, PHP`) deployed to Heroku |
-| [chitter app](https://chitter---app.herokuapp.com/)   | Basic Twitter clone (`Ruby, CSS, HTML, Sinatra, PostgreSQL`) with data base deployed to Heroku  |
-| [rock-paper-scissors-game](https://rock---paper---scissors.herokuapp.com/)  | Popular rock-paper-scissors game for one player vs. computer (`Ruby, CSS, HTML, Sinatra`) deployed to Heroku |
+| [chitter app](https://chitter---app.herokuapp.com/)   | Basic Twitter clone (`Ruby, CSS, HTML, Sinatra, PostgreSQL`) with data base deployed to Heroku |
+| [rps-game](https://rock---paper---scissors.herokuapp.com/)  | Popular rock-paper-scissors game for one player vs. computer (`Ruby, CSS, HTML, Sinatra`) deployed to Heroku |
 | [birthday-app](https://birth-day-app.herokuapp.com/)  | Simple web application, swowing how many days till your next Birthday (`Ruby, CSS, HTML, Sinatra`) deployed to Heroku |
-| [website challenge](https://shecodesproject2020.s3.eu-west-2.amazonaws.com/new_site.html) | First website challenge as part of SheCodes bootcamp (`CSS, HTML, JS`) deployed to AWS |
-
+| [website challenge](https://shecodesproject2020.s3.eu-west-2.amazonaws.com/new_site.html) | First website challenge as part of SheCodes bootcamp (`CSS, HTML, JS`) deployed to AWS S3 |
 
 ---
 How to reach me: [LinkedIn](https://www.linkedin.com/in/yaroslava-yates-629517221/)
