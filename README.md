@@ -2,7 +2,7 @@
 
 My name is Slava and I am looking for a Junior Software Engineer role.
 
-I’m currently studing at Makers Academy and working on some projects and challenges.  
+I’m currently studying at Makers Academy and working on some projects and challenges.  
 Please check the links below.
 
 <!-- - [caterpillar game](https://caterpillar-game.herokuapp.com/)
