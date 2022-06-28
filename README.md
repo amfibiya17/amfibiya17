@@ -13,7 +13,7 @@ Please check the links below.
 
 | Project | Description |
 | ------------- | ------------- |
-| [noughts & crosses game](https://noughts--and--crosses.herokuapp.com/) | Noughts and Crosses Game for 2 players (`React, JS, CSS, HTML, Jest, Enzyme`) deployed to Heroku |
+| [noughts & crosses game](http://noughts-and-crosses.s3-website.eu-west-2.amazonaws.com/) | Classic Noughts and Crosses Game for 2 players with score counter (`React, JS, CSS, HTML, Jest, Enzyme`) deployed to AWS S3 |
 | [news app](http://news-app-challenge.s3-website.eu-west-2.amazonaws.com/) | News app Frond End challenge with AJAX (`JS, CSS, HTML`) deployed to AWS S3 |
 | [todo list](https://todo--list--challenge.herokuapp.com/) | Simple To Do list with AJAX (`JS, CSS, HTML`) deployed to Heroku |
 | [caterpillar game](https://caterpillar-game.herokuapp.com/)  | Popular snake/caterpillar game from the 90's (`JS, CSS, HTML, PHP`) deployed to Heroku |
