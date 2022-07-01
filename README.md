@@ -24,7 +24,7 @@ How to reach me: [LinkedIn](https://www.linkedin.com/in/yaroslava-yates-62951722
 <br>
 <br>
 
-
+<!-- 
 ![CodeWars](https://github-readme-codewars-stats.herokuapp.com/api/?username=amfibiya17&badge&name_only&colormode=bright_mode)
 
 
@@ -35,4 +35,5 @@ How to reach me: [LinkedIn](https://www.linkedin.com/in/yaroslava-yates-62951722
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amfibiya17&layout=compact&theme=default" height="163"/>
 </a>
+-->
 
