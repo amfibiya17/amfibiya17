@@ -29,10 +29,10 @@ How to reach me: [LinkedIn](https://www.linkedin.com/in/yaroslava-yates-62951722
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amfibiya17&theme=synthwave" height="203"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amfibiya17&theme=synthwave" height="153"/>
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amfibiya17&layout=compact&theme=synthwave" height="203"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amfibiya17&layout=compact&theme=synthwave" height="153"/>
 </a>
 
