@@ -19,6 +19,7 @@ Please check the links below.
 | [website challenge](https://shecodesproject2020.s3.eu-west-2.amazonaws.com/new_site.html) | First website challenge as part of SheCodes bootcamp deployed to AWS S3 | CSS, HTML, JS |
 
 
+
 ---
 How to reach me: [LinkedIn](https://www.linkedin.com/in/yaroslava-yates-629517221/)
 <br>
