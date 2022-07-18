@@ -8,8 +8,8 @@ Please check the links below.
 
 | Project<br>Demo Link | Description | Stack |
 | ------------- | ------------- | ------------- |
-| palendar | MERN stack app with Weather API, which allows user to schedule a time to hang out with friends | JS, CSS, HTML, MongoDB, React, NodeJS |
-| [weather web app](http://weather--app.s3-website.eu-west-2.amazonaws.com/) | API Weather Web App Frond End project with AJAX deployed to AWS S3 | Vanilla JS, CSS, HTML, Jest, Node.js |
+| palendar | MERN stack app with Weather API, which allows user to schedule a time to hang out with friends | JS, CSS, HTML, MongoDB, React, NodeJS, Jest, Bcrypt, Cypress, Nodemone, Mongoose |
+| [weather web app](http://weather--app.s3-website.eu-west-2.amazonaws.com/) | API Weather Web App Frond End project with AJAX deployed to AWS S3 | Vanilla JS, CSS, HTML, Jest, NodeJs |
 | [noughts & crosses game](http://noughts-and-crosses.s3-website.eu-west-2.amazonaws.com/) | Classic Noughts and Crosses Game for 2 players with score counter deployed to AWS S3 | React, JS, CSS, HTML, Jest, Enzyme |
 | [news app](http://news-app-challenge.s3-website.eu-west-2.amazonaws.com/) | API News app Frond End challenge with AJAX deployed to AWS S3 | Vanilla JS, CSS, HTML |
 | [todo list](https://todo--list--challenge.herokuapp.com/) | Simple To Do list with AJAX  deployed to Heroku | JS, CSS, HTML |
