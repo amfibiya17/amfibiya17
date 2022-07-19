@@ -1,11 +1,10 @@
-
 <a href="https://www.linkedin.com/in/yaroslava-yates-629517221/">
 <img src="https://i.postimg.cc/x18crzfP/linkedin-logo.webp" alt="linkedin" hspace="50" height="22" width="82" align="right"></a>
 
 ![CodeWars](https://www.codewars.com/users/amfibiya17/badges/small)
 
 <h1 align="center">
-  Yaroslava Yates :flamingo:
+  Yaroslava Yates
 </h1>
 
 <br>
@@ -80,8 +79,39 @@ I am a Software Engineer and recent graduate of the highly selective programming
 
 ## Education
 
+### Makers Academy - Software Engineering Bootcamp (Jul 2022)
+  - OOP, TDD, MVC, DDD
+  - Agile/XP
+  - Ruby, Rails, JavaScript, React, Node, Socket.io
+  - RSpec, Jasmine, Jest, React testing Library
 
+<br>
 
+### Tyumen State University, Russia (June 2011)
+ - Bachelor's degree in Mathematics with Management, 2:1
+
+<br>
+
+### Nizhnevartovsk Grammar School, Russia (June 2003)
+   - AS-Level equivalent in Russian language (Grade A), Mathematics (Grade B) and History (Grade A)
+
+<br>
+
+### Nizhnevartovsk Grammar School, Russia (June 2001)
+  - GCSE equivalent in 19 subjects including Mathematics, English, Physics, Chemistry and Biology 
+at Grades A - C
+
+<br>
+
+### Other Certifications and Courses
+
+  - AWS - Cloud Practitioner Course (Jul 2022 - ongoing)
+  - Codecademy - Learn Ruby Course (Jan 2022)
+  - Codecademy - Learn CSS Course (Jan 2022)
+  - Codecademy - Learn JS Course (Jan 2022)
+  - Cambridge Regional College – Web Development with WordPress Workshop (Jan. 2022)
+  - SheCodes Workshop - Introduction to Coding (Aug 2020)
+  - Codecademy - Learn HTML Course (Jul 2020)
 
 <br>
 
@@ -119,9 +149,3 @@ I am a Software Engineer and recent graduate of the highly selective programming
 <br>
 
 ## Interests
-
-
-
-
-
-
