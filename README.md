@@ -42,9 +42,9 @@
 
 I am a Software Engineer and recent graduate of the highly selective programming bootcamp [Makers Academy](https://makers.tech/).
 
-I have BA in Mathematics with Management and background in finances and logistics, which I have worked for the past 5 years.
+I have Bachelor’s degree in Mathematics with Management and background in finances, customer services and logistics, which I have done for the past 6 years.
 
-As a graduate of the Makers Academy, I now have the skills to build, full stack applications using JavaScript and Ruby. I am trained in OOP, TDD, pair programming and using agile processes.
+As a graduate of the Makers Academy, I now have the skills to build full stack applications using JavaScript and Ruby. I am trained in OOP, TDD, pair programming and agile processes.
 
 During my time at Makers, I have fallen in love with coding and am excited to bring my passion and enthusiasm to a new role.
 
@@ -82,10 +82,11 @@ During my time at Makers, I have fallen in love with coding and am excited to br
 ## Education
 
 ### Makers Academy - Software Engineering Bootcamp (Jul 2022)
-  - OOP, TDD, MVC, DDD
+  - OOP, TDD, MVC, DDD, Git
   - Agile/XP
-  - Ruby, Rails, JavaScript, React, Node, Socket.io
-  - RSpec, Jasmine, Jest, React testing Library
+  - Ruby, JavaScript, Node
+  - Rails, Sinatra, React, Express
+  - RSpec, Jasmine, Jest, Enzyme, React testing Library, Cypress
 
 <br>
 
@@ -107,7 +108,7 @@ at Grades A - C
 
 ### Other Certifications and Courses
 
-  - AWS - Cloud Practitioner Course (Jul 2022 - ongoing)
+  - AWS - Cloud Practitioner Certification (Jul 2022 - ongoing)
   - Codecademy - Learn Ruby Course (Jan 2022)
   - Codecademy - Learn CSS Course (Jan 2022)
   - Codecademy - Learn JS Course (Jan 2022)
