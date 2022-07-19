@@ -40,11 +40,13 @@
 
 ---
 
-<br>
+I am a Software Engineer and recent graduate of the highly selective programming bootcamp [Makers Academy](https://makers.tech/).
 
-I am a Software Engineer and recent graduate of the highly selective programming boot camp [Makers Academy](https://makers.tech/).
+I have BA in Mathematics with Management and background in finances and logistics, which I have worked for the past 5 years.
 
-<br>
+As a graduate of the Makers Academy, I now have the skills to build, full stack applications using JavaScript and Ruby. I am trained in OOP, TDD, pair programming and using agile processes.
+
+During my time at Makers, I have fallen in love with coding and am excited to bring my passion and enthusiasm to a new role.
 
 ---
 
@@ -121,7 +123,30 @@ at Grades A - C
 
 ## Experience
 
+### Operations Supervisor - Breezemount, Peterborough
+#### (Sep 2021 – Feb 2022)
+  - Supervise the activities of the administrators, warehouse and delivery crews to ensure all daily operational activities are completed in line with Company procedures
+  - Ensuring cost effective and compliant route and resource planning for delivery activity, accuracy of delivery crew debrief and updating HDX with the relevant detail
+  - Proactive customer contact and accurate processing of failed deliveries to include rescheduling and stock returns to client
+  - Was promoted straight away from admin to supervisor position
 
+<br>
+
+### Travel Money Advisor - Sainsbury’s Bank, Peterborough
+#### (Sept 2018 – Sept 2021)
+  - Buying and selling foreign currencies, selling, reloading, and cashing out travel money cards, sending and paying out transactions via Western Union
+  - Ordering and packing online and “walk-up” orders, organising and ordering delivery and pick-up of pounds and foreign currencies
+  - Writing up monthly reports for duty, area and regional managers, drawing up monthly rotas for the bureau, training colleagues
+  - “Bureau of the Month” award for June 2019
+
+<br>
+
+### Contact Tracing Tier 3 Customer Services Advisor - Sitel, NHS COVID-19 Test and Trace Programme
+#### (May 2020 – January 2021)
+  - Undertaking interviews with contacts of COVID-19 cases identified for contact tracing in line with the contact tracing and management protocol and further protocols or guidance as indicated
+  - Escalating and referring challenging or complex cases, incidents, and outbreaks of COVID-19 to Tier 2 Call Handlers or the Tier 3 Call Handler Team Lead as appropriate
+  - Ensuring the timely and accurate recording of information from interviews, contributing to the maintenance of effective systems for the surveillance of COVID-19 through providing accurate data and information
+  - Maintaining confidentiality in relation to personal data held in accordance with the Data Protection Act and Caldicott Guardianship principles
 
 <br>
 
@@ -154,3 +179,4 @@ at Grades A - C
   - Coin collector
   - Dog lover
   - Adventurer
+
