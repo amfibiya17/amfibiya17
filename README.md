@@ -149,3 +149,8 @@ at Grades A - C
 <br>
 
 ## Interests
+  - Piano player
+  - Dystopian reader
+  - Coin collector
+  - Dog lover
+  - Adventurer
