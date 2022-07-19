@@ -70,6 +70,12 @@ During my time at Makers, I have fallen in love with coding and am excited to br
 
 ## Skills
 
+### Etention to detail
+
+### Fast learner
+
+### Problem-solver
+
 
 
 
@@ -86,7 +92,8 @@ During my time at Makers, I have fallen in love with coding and am excited to br
   - Agile/XP
   - Ruby, JavaScript, Node
   - Rails, Sinatra, React, Express
-  - RSpec, Jasmine, Jest, Enzyme, React testing Library, Cypress
+  - RSpec, Jasmine, Jest, Enzyme, React testing Library, Cypress, Capybara
+  - Team collaboration
 
 <br>
 
@@ -180,6 +187,5 @@ at Grades A - C
   - Coin collector
   - Dog lover
   - Adventurer
-  
   
   
