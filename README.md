@@ -42,7 +42,7 @@
 
 I am a Software Engineer and recent graduate of the highly selective programming bootcamp [Makers Academy](https://makers.tech/).
 
-I have Bachelor’s degree in Mathematics with Management and background in finances, customer services and logistics, which I have done for the past 6 years.
+I have a Bachelor’s degree in Mathematics with Management and have worked in finances, customer services and logistics over the past 6 years.
 
 As a graduate of the Makers Academy, I now have the skills to build full stack applications using JavaScript and Ruby. I am trained in OOP, TDD, pair programming and agile processes.
 
@@ -56,11 +56,11 @@ During my time at Makers, I have fallen in love with coding and am excited to br
 
 | Project<br>Demo Link | Description | Stack |
 | ------------- | ------------- | ------------- |
-| palendar | MERN stack app with Weather API, which allows user to schedule a time to hang out with friends | JS, CSS, HTML, MongoDB, React, NodeJS, Jest, Bcrypt, Cypress, Nodemone, Mongoose |
+| palendar | MERN stack app with Weather API, which allows users to schedule a time to hang out with friends | JS, CSS, HTML, MongoDB, React, NodeJS, Jest, Bcrypt, Cypress, Nodemone, Mongoose |
 | [weather web app](http://weather--app.s3-website.eu-west-2.amazonaws.com/) | API Weather Web App Frond End project with AJAX deployed to AWS S3 | Vanilla JS, CSS, HTML, Jest, NodeJs |
 | [noughts & crosses game](http://noughts-and-crosses.s3-website.eu-west-2.amazonaws.com/) | Classic Noughts and Crosses Game for 2 players with score counter deployed to AWS S3 | React, JS, CSS, HTML, Jest, Enzyme |
 | [news app](http://news-app-challenge.s3-website.eu-west-2.amazonaws.com/) | API News app Frond End challenge with AJAX deployed to AWS S3 | Vanilla JS, CSS, HTML |
-| [chitter app](https://chitter---app.herokuapp.com/)   | Basic Twitter clone with data base deployed to Heroku | Ruby, CSS, HTML, Sinatra, PostgreSQL, RSpec, Capybara |
+| [chitter app](https://chitter---app.herokuapp.com/)   | Basic Twitter clone with database deployed to Heroku | Ruby, CSS, HTML, Sinatra, PostgreSQL, RSpec, Capybara |
 
 <br>
 
@@ -124,7 +124,7 @@ at Grades A - C
 
 ## Experience
 
-### Operations Supervisor - Breezemount, Peterborough
+### Operations Supervisor - Breezemount
 #### (Sep 2021 – Feb 2022)
   - Supervise the activities of the administrators, warehouse and delivery crews to ensure all daily operational activities are completed in line with Company procedures
   - Ensuring cost effective and compliant route and resource planning for delivery activity, accuracy of delivery crew debrief and updating HDX with the relevant detail
@@ -133,7 +133,7 @@ at Grades A - C
 
 <br>
 
-### Travel Money Advisor - Sainsbury’s Bank, Peterborough
+### Travel Money Advisor - Sainsbury’s Bank
 #### (Sept 2018 – Sept 2021)
   - Buying and selling foreign currencies, selling, reloading, and cashing out travel money cards, sending and paying out transactions via Western Union
   - Ordering and packing online and “walk-up” orders, organising and ordering delivery and pick-up of pounds and foreign currencies
@@ -180,4 +180,6 @@ at Grades A - C
   - Coin collector
   - Dog lover
   - Adventurer
-
+  
+  
+  
