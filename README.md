@@ -7,7 +7,7 @@
   Yaroslava Yates
 </h1>
 
-<br>
+
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 </div>
 
 
-<br>
+
 
 ---
 
@@ -50,7 +50,6 @@ During my time at Makers, I have fallen in love with coding and am excited to br
 
 ---
 
-<br>
 
 ## Projects
 
@@ -62,11 +61,10 @@ During my time at Makers, I have fallen in love with coding and am excited to br
 | [news app](http://news-app-challenge.s3-website.eu-west-2.amazonaws.com/) | API News app Frond End challenge with AJAX deployed to AWS S3 | Vanilla JS, CSS, HTML |
 | [chitter app](https://chitter---app.herokuapp.com/)   | Basic Twitter clone with database deployed to Heroku | Ruby, CSS, HTML, Sinatra, PostgreSQL, RSpec, Capybara |
 
-<br>
 
 ---
 
-<br>
+
 
 ## Skills
 
@@ -77,13 +75,9 @@ During my time at Makers, I have fallen in love with coding and am excited to br
 ### Problem-solver
 
 
-
-
-<br>
-
 ---
 
-<br>
+
 
 ## Education
 
@@ -123,11 +117,11 @@ at Grades A - C
   - SheCodes Workshop - Introduction to Coding (Aug 2020)
   - Codecademy - Learn HTML Course (Jul 2020)
 
-<br>
+
 
 ---
 
-<br>
+
 
 ## Experience
 
@@ -156,11 +150,11 @@ at Grades A - C
   - Ensuring the timely and accurate recording of information from interviews, contributing to the maintenance of effective systems for the surveillance of COVID-19 through providing accurate data and information
   - Maintaining confidentiality in relation to personal data held in accordance with the Data Protection Act and Caldicott Guardianship principles
 
-<br>
+
 
 ---
 
-<br>
+
 
 ## Other Projects
 
@@ -174,12 +168,8 @@ at Grades A - C
 | [website challenge](https://shecodesproject2020.s3.eu-west-2.amazonaws.com/new_site.html) | First website challenge as part of SheCodes bootcamp deployed to AWS S3 | CSS, HTML, JS |
 
 
-
-<br>
-
 ---
 
-<br>
 
 ## Interests
   - Piano player
