@@ -44,7 +44,7 @@ I am a Software Engineer and recent graduate of the highly selective programming
 
 I have a Bachelor’s degree in Mathematics with Management and have worked in finances, customer services and logistics over the past 6 years.
 
-As a graduate of the Makers Academy, I now have the skills to build full stack applications using JavaScript and Ruby. I am trained in OOP, TDD, pair programming and agile processes.
+As a graduate of the Makers Academy, I now have the skills to design, test, build and deploy full stack applications using JavaScript and Ruby. I am trained in OOP, TDD, pair programming and agile processes.
 
 During my time at Makers, I have fallen in love with coding and am excited to bring my passion and enthusiasm to a new role.
 
