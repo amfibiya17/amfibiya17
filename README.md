@@ -60,7 +60,7 @@ During my time at Makers, I have fallen in love with coding and am excited to br
 
 | Project<br>Demo Link | Description | Stack |
 | ------------- | ------------- | ------------- |
-| palendar | MERN stack app with Weather API, which allows users to schedule a time to hang out with friends | JS, CSS, HTML, MongoDB, React, NodeJS, Jest, Bcrypt, Cypress, Nodemone, Mongoose |
+| [palendar](https://thepalendar.netlify.app/) | MERN stack app with Weather API, which allows users to schedule a time to hang out with friends | JS, CSS, HTML, MongoDB, React, NodeJS, Jest, Bcrypt, Cypress, Nodemone, Mongoose |
 | [weather web app](http://weather--app.s3-website.eu-west-2.amazonaws.com/) | API Weather Web App Frond End project with AJAX deployed to AWS S3 | Vanilla JS, CSS, HTML, Jest, NodeJs |
 | [noughts & crosses game](http://noughts-and-crosses.s3-website.eu-west-2.amazonaws.com/) | Classic Noughts and Crosses Game for 2 players with score counter deployed to AWS S3 | React, JS, CSS, HTML, Jest, Enzyme |
 | [news app](http://news-app-challenge.s3-website.eu-west-2.amazonaws.com/) | API News app Frond End challenge with AJAX deployed to AWS S3 | Vanilla JS, CSS, HTML |
@@ -73,11 +73,23 @@ During my time at Makers, I have fallen in love with coding and am excited to br
 
 ## Skills
 
-### Etention to detail
-
 ### Fast learner
 
 ### Problem-solver
+
+
+### SDLC follower
+During my Makers journey I learned, understood and used the full engineering life cycle, from design and implementation through to testing and deployment. For example in one of my weekend challenges (Chitter Challenge) I used these steps: 
+- planning the timetable with target goals, define requirements to determine what the application is supposed to do, 
+- design phase models the way a software application will work, 
+- testing, strictly following TDD and BDD practices, 
+- coding process, setting up data base,
+- create  README file, which includes instructions and explanations, 
+- deploy to the platform (in my case Heroku) and maintain the app.
+
+
+### Deployment lover
+Throughout my time at Makers I really enjoyed deploying my projects to platforms such as Heroku and AWS S3. I started deploying my projects from the the very beginning and found that it’s important to contribute to maturing a DevOps culture and see the final product I build and deliver a cloud-native technical architecture that is modular, adaptable and scalable.
 
 
 ---
