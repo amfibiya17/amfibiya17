@@ -131,7 +131,7 @@ at Grades A - C
 
 ## Experience
 
-### Operations Supervisor - Breezemount
+### Operations Supervisor - Breezemount (IKEA)
 #### (Sep 2021 – Feb 2022)
   - Supervise the activities of the administrators, warehouse and delivery crews to ensure all daily operational activities are completed in line with Company procedures
   - Ensuring cost effective and compliant route and resource planning for delivery activity, accuracy of delivery crew debrief and updating HDX with the relevant detail
