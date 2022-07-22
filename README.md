@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/yaroslava-yates-629517221/">
 <img src="https://i.postimg.cc/x18crzfP/linkedin-logo.webp" alt="linkedin" hspace="50" height="22" width="82" align="right"></a>
 
-![CodeWars](https://www.codewars.com/users/amfibiya17/badges/small)
+<a href="https://www.codewars.com/users/amfibiya17" > ![CodeWars](https://www.codewars.com/users/amfibiya17/badges/small) </a>
 
 <h1 align="center">
   Yaroslava Yates
