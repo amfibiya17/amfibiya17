@@ -64,7 +64,7 @@ During my time at Makers, I have fallen in love with coding and am excited to br
 | [weather web app](http://weather--app.s3-website.eu-west-2.amazonaws.com/) | API Weather Web App Frond End project with AJAX deployed to AWS S3 ([repo](https://github.com/amfibiya17/weather-app)) | Vanilla JS, CSS, HTML, Jest, NodeJs |
 | [noughts & crosses game](http://noughts-and-crosses.s3-website.eu-west-2.amazonaws.com/) | Classic Noughts and Crosses Game for 2 players with score counter deployed to AWS S3 ([repo](https://github.com/amfibiya17/noughts-and-crosses)) | React, JS, CSS, HTML, Jest, Enzyme |
 | [news app](http://news-app-challenge.s3-website.eu-west-2.amazonaws.com/) | API News app Frond End challenge with AJAX deployed to AWS S3 ([repo](https://github.com/amfibiya17/news-summary-challenge)) | Vanilla JS, CSS, HTML |
-| [chitter app](https://chitter---app.herokuapp.com/)   | Basic Twitter clone with database deployed to Heroku ([repo](https://github.com/amfibiya17/chitter-challenge)) | Ruby, CSS, HTML, Sinatra, PostgreSQL, RSpec, Capybara |
+| [chitter app](https://chitter---app.herokuapp.com/)   | Basic Twitter clone with PostgreSQL database deployed to Heroku ([repo](https://github.com/amfibiya17/chitter-challenge)) | Ruby, CSS, HTML, Sinatra, PostgreSQL, RSpec, Capybara |
 
 
 ---
@@ -179,11 +179,11 @@ at Grades A - C
 
 | Project<br>Demo Link | Description | Stack |
 | ------------- | ------------- | ------------- |
-| [todo list](https://todo--list--challenge.herokuapp.com/) | Simple To Do list with AJAX  deployed to Heroku ([repo]()) | JS, CSS, HTML |
-| [caterpillar game](https://caterpillar-game.herokuapp.com/)  | Popular snake/caterpillar game from the 90's deployed to Heroku ([repo]()) | JS, CSS, HTML, PHP |
-| [rps-game](https://rock---paper---scissors.herokuapp.com/)  | Popular rock-paper-scissors game for one player vs. computer deployed to Heroku ([repo]()) | Ruby, CSS, HTML, Sinatra, RSpec, Capybara
-| [birthday-app](https://birth-day-app.herokuapp.com/)  | Simple web application, swowing how many days till your next Birthday deployed to Heroku ([repo]()) | Ruby, CSS, HTML, Sinatra, RSpec, Capybara
-| [website challenge](https://shecodesproject2020.s3.eu-west-2.amazonaws.com/new_site.html) | First website challenge as part of SheCodes bootcamp deployed to AWS S3 ([repo]()) | CSS, HTML, JS |
+| [todo list](https://todo--list--challenge.herokuapp.com/) | Simple To Do list with AJAX  deployed to Heroku ([repo](https://github.com/amfibiya17/notes-app)) | JS, CSS, HTML |
+| [caterpillar game](https://caterpillar-game.herokuapp.com/)  | Popular snake/caterpillar game from the 90's deployed to Heroku ([repo](https://github.com/amfibiya17/caterpillar-game)) | JS, CSS, HTML, PHP |
+| [rps-game](https://rock---paper---scissors.herokuapp.com/)  | Popular rock-paper-scissors game for one player vs. computer deployed to Heroku ([repo](https://github.com/amfibiya17/rps-challenge)) | Ruby, CSS, HTML, Sinatra, RSpec, Capybara
+| [birthday-app](https://birth-day-app.herokuapp.com/)  | Simple web application, swowing how many days till your next Birthday deployed to Heroku ([repo](https://github.com/amfibiya17/Birthday-App)) | Ruby, CSS, HTML, Sinatra, RSpec, Capybara
+| [website challenge](https://shecodesproject2020.s3.eu-west-2.amazonaws.com/new_site.html) | First website challenge as part of SheCodes bootcamp deployed to AWS S3 | CSS, HTML, JS |
 
 
 ---
