@@ -115,6 +115,7 @@ at Grades A - C
 ### Other Certifications and Courses
 
   - AWS - Cloud Practitioner Certification (Jul 2022 - ongoing)
+  - Codecademy - Learn C# (Jul 2022)
   - Codecademy - Learn Ruby Course (Jan 2022)
   - Codecademy - Learn CSS Course (Jan 2022)
   - Codecademy - Learn JS Course (Jan 2022)
