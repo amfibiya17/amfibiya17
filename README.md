@@ -53,6 +53,8 @@ As a graduate of the Makers Academy, I now have the skills to design, test, buil
 
 During my time at Makers, I have fallen in love with coding and am excited to bring my passion and enthusiasm to a new role.
 
+In non-code life (sounds so unrealistic now), I had the opportunity to change countries twice - moving from my motherland Ukraine to Russia when I was 10, and then to the UK 19 years later, to learn new languages - Ukrainian, Russian and English (and basic French), to start everything from scratch here in England. And now to change career and fall in love in what I am doing.
+
 ---
 
 
@@ -74,8 +76,14 @@ During my time at Makers, I have fallen in love with coding and am excited to br
 ## Skills
 
 ### Fast learner
+Makers centric focus are TDD, DDD and Agile development. It added a great value to my process and code testing practice. By the end of the course I was able to contribute to culture of continuous improvement, self-managing teams and contribute to team’s delivery success via our Agile practice and processes. For example:
+- strictly following Agile with continuous deployment as part of this approach, 
+- used git and branches, which was allowed you to branch out from the original code base and isolate your work from main,
+- used different types of testing (such as unit, end-to-end and React testing library) to ensure changes to the code work as expected.
+
 
 ### Problem-solver
+Please see as exaples of approach: [gilded rose tech test](https://github.com/amfibiya17/gilded-rose-tech-test) and [bank tech test](https://github.com/amfibiya17/bank-tech-test)
 
 
 ### SDLC follower
@@ -90,7 +98,6 @@ During my Makers journey I learned, understood and used the full engineering lif
 
 ### Deployment lover
 Throughout my time at Makers I really enjoyed deploying my projects to platforms such as Heroku and AWS S3. I started deploying my projects from the the very beginning and found that it’s important to contribute to maturing a DevOps culture and see the final product I build and deliver a cloud-native technical architecture that is modular, adaptable and scalable.
-
 
 ---
 
@@ -127,7 +134,7 @@ at Grades A - C
 ### Other Certifications and Courses
 
   - AWS - Cloud Practitioner Certification (Jul 2022 - ongoing)
-  - Codecademy - Learn C# (Jul 2022)
+  - Codecademy - Learn C# Course (Jul 2022)
   - Codecademy - Learn Ruby Course (Jan 2022)
   - Codecademy - Learn CSS Course (Jan 2022)
   - Codecademy - Learn JS Course (Jan 2022)
