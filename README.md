@@ -81,9 +81,19 @@ Makers centric focus are TDD, DDD and Agile development. It added a great value 
 - used git and branches, which was allowed you to branch out from the original code base and isolate your work from main,
 - used different types of testing (such as unit, end-to-end and React testing library) to ensure changes to the code work as expected.
 
+<br>
+
+During Makers Bootcamp I started thinking about challenging myself with a third language.  
+I found that C# is one of the most popular programming languages.  
+It can be used for a variety of things, including mobile applications, game development, and enterprise software.  
+I have completed “Learn C# for beginners” on “Codecademy” and think that this language is one of the most well-designed programming languages. Unlike languages like Ruby and JavaScript, which I learned at Makers, C# defines the type of data in a program. Assigning a type essentially tells a computer what operations can and cannot be performed on that piece of data.  
+I used this knowledge to build a simple C#/.NET application by strictly following TDD process -   
+please see my latest project [Cloud Customers](https://github.com/amfibiya17/c-sharp-practice).
+
 
 ### Problem-solver
-Please see as exaples of approach: [gilded rose tech test](https://github.com/amfibiya17/gilded-rose-tech-test) and [bank tech test](https://github.com/amfibiya17/bank-tech-test)
+
+Please see examples of approach: [gilded rose tech test](https://github.com/amfibiya17/gilded-rose-tech-test) and [bank tech test](https://github.com/amfibiya17/bank-tech-test)
 
 
 ### SDLC follower
@@ -97,7 +107,7 @@ During my Makers journey I learned, understood and used the full engineering lif
 
 
 ### Deployment lover
-Throughout my time at Makers I really enjoyed deploying my projects to platforms such as Heroku and AWS S3. I started deploying my projects from the the very beginning and found that it’s important to contribute to maturing a DevOps culture and see the final product I build and deliver a cloud-native technical architecture that is modular, adaptable and scalable.
+Throughout my time at Makers I really enjoyed deploying my projects to platforms such as Heroku and AWS S3. I started deploying my projects from the the very beginning and found that it’s important to contribute to maturing a DevOps culture, see the final product I build and deliver a cloud-native technical architecture that is modular, adaptable and scalable.
 
 ---
 
