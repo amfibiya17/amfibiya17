@@ -6,7 +6,7 @@
 
 <br>
 
-
+<!---
 <div align="center">
 
   <a href="https://github.com/amfibiya17/my-projects">
@@ -16,4 +16,4 @@
   <img src="https://img.shields.io/static/v1?label=Linked&message=In&color=286fc7" alt="LinkedIn" hspace="5" height="30" width="115"></a>
   
 </div>
-
+-->
