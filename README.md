@@ -15,5 +15,6 @@
   <a href="https://www.linkedin.com/in/yaroslava-yates-629517221/">
   <img src="https://img.shields.io/static/v1?label=Linked&message=In&color=286fc7" alt="LinkedIn" hspace="5" height="30" width="115"></a>
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amfibiya17)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 -->
